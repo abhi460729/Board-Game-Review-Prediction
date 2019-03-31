@@ -1,0 +1,12 @@
+Board Game Review Prediction:
+
+Introduction:
+A dataset of over 80000 games(min players, max players, games etc.) is imported in the module to train both the Linear Regression Model which is liner and a Random Forest Regressor which is non linear both to make predictions.Taking a specific observation information like year published, users rated etc. we will be able to predict the actual average review.
+
+Various libraries are imported imported like:
+Pandas - It is a Python Data Analysis Library to provide high performance easy to use data structures and data analysis tools. It is used to load the dataset.
+
+Operations:
+Correlation matrix: playing time, min play time and max play time are highly correlated and are responsible for affecting the build model.
+
+Rest documented.
